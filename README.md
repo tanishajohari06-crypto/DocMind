@@ -61,7 +61,8 @@ streamlit run app.py
 
 
 ---
-
+#Live demo
+https://docmind-a83kcvl3pmcrae9s49zzhu.streamlit.app/
 ## Conclusion
 
 DocMind demonstrates the effectiveness of combining RAG architecture with multiple LLMs to improve document understanding and answer accuracy.
